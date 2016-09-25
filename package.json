@@ -36,6 +36,7 @@
   "homepage": "https://github.com/IonicaBizau/bloggify-article#readme",
   "bin": null,
   "dependencies": {
+    "bloggify-page": "^1.0.1",
     "daty": "^1.0.5",
     "string-template": "^1.0.0"
   }
