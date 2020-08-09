@@ -7,6 +7,7 @@ BloggifyArticle
 The Bloggify article class.
 
 #### Params
+
 - **Object** `data`: The page data:
   - `metadata` (Object):
      - `id` (String): The article id.
